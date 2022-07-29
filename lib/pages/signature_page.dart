@@ -28,7 +28,7 @@ class ReviewSignaturePage extends StatelessWidget {
             ),
           ],
           centerTitle: true,
-          title: const Text('Salvar assinatura'),
+          title: const Text('Salvar assinatura.'),
         ),
         body: Center(
           child: Image.memory(signature),
